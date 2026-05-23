@@ -1,6 +1,6 @@
 # CodeAlpha - Cloud Computing Internship Projects
 
-[cite_start]This repository contains the practical projects developed during my Cloud Computing internship program at **CodeAlpha**[cite: 2]. [cite_start]The projects focus on building scalable, secure, and user-friendly digital systems[cite: 4].
+This repository contains the practical projects developed during my Cloud Computing internship program at **CodeAlpha**. The projects focus on building scalable, secure, and user-friendly digital systems.
 
 ---
 
