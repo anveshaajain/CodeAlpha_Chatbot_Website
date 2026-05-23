@@ -7,12 +7,12 @@ This repository contains the practical projects developed during my Cloud Comput
 ## 🤖 Project 1: AI-Powered Chatbot Widget (Task 4)
 
 ### 📋 Overview
-[cite_start]An AI-powered, retrieval-based chatbot system integrated seamlessly into a modern company landing page interface[cite: 38, 40]. [cite_start]The chatbot utilizes pattern-matching techniques to analyze incoming user strings, filter keywords, and deliver instant, context-aware digital customer support replies[cite: 39, 40].
+An AI-powered, retrieval-based chatbot system integrated seamlessly into a modern company landing page interface.The chatbot utilizes pattern-matching techniques to analyze incoming user strings, filter keywords, and deliver instant, context-aware digital customer support replies.
 
 ### 💻 Features Built
-* [cite_start]**Instant Responses:** Zero latency response handling for incoming client strings[cite: 39].
-* [cite_start]**Commercial Knowledge Base:** Trained with specific, structured response intents covering business hours, pricing, and active services.
-* [cite_start]**Responsive UI Design:** A modern, pinned live-chat container built to integrate flawlessly with any corporate front-end layout.
+* **Instant Responses:** Zero latency response handling for incoming client strings.
+* **Commercial Knowledge Base:** Trained with specific, structured response intents covering business hours, pricing, and active services.
+* **Responsive UI Design:** A modern, pinned live-chat container built to integrate flawlessly with any corporate front-end layout.
 * **Fallback Logic:** Embedded smart routing to handle unexpected user prompts gracefully.
 
 ### 🛠️ Tech Stack Used
